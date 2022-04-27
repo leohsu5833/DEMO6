@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\layout_layouy1.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\layout\\layouy1.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_tab_icon1.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\tab_icon1.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_a1_on.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\a1_on.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_a1_off.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\a1_off.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_a2_on.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\a2_on.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_a2_off.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\a2_off.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\layout_layout2.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\layout\\layout2.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_tab_icon2.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\tab_icon2.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_tab_icon3.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\tab_icon3.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_g2.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable\\ic_g2.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\layout_tab.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\layout\\tab.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\layout_layout4.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\layout\\layout4.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_a3_off.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\a3_off.png"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\layout_layout3.xml.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\layout\\layout3.xml"
+    },
+    {
+        "merged": "C:\\stevenhsu\\DEMO6\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_a3_on.png.flat",
+        "source": "C:\\stevenhsu\\DEMO6\\app\\src\\main\\res\\drawable-nodpi\\a3_on.png"
+    }
+]
